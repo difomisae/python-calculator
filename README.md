@@ -1,2 +1,6 @@
 # python-calculator
-A simple console calculator supporting addition, subtraction, multiplication, and division.
+## A simple console calculator supporting:
+- Addition
+- Subtraction
+- Multiplication, and 
+- Division.
